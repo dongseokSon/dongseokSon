@@ -17,9 +17,11 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_USERNAME: Waka
           COMMIT_MESSAGE: ':hammer: Waka: Update dev metrics'
           SHOW_TITLE: true
           SHOW_UPDATED_DATE: true
           SHOW_LINES_OF_CODE: true
+          SHOW_TIMEZONE: true
           TIME_RANGE: all_time
-          
+
