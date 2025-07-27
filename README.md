@@ -8,13 +8,15 @@
 [![Dongseok son's Top Languages](https://github-readme-stats-livid-kappa-40.vercel.app/api/top-langs/?username=dongseokSon&langs_count=20&hide=Jupyter%20Notebook)](https://github.com/dongseokSon/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 22.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,558 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,7 +70,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dongseokSon/dongseokSon/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2025 01:44:31 UTC
+ Last Updated on 27/07/2025 01:56:56 UTC
 <!--END_SECTION:waka-->
 
 
