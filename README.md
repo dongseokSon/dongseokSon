@@ -8,29 +8,15 @@
 [![Dongseok son's Top Languages](https://github-readme-stats-livid-kappa-40.vercel.app/api/top-langs/?username=dongseokSon&langs_count=20&hide=Jupyter%20Notebook)](https://github.com/dongseokSon/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2057%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 22.8 kB Used in GitHub's Storage 
- > 
-> 🏆 1,590 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2109 commits        ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-🌆 Daytime                5566 commits        █████████████████░░░░░░░░   67.51 % 
-🌃 Evening                487 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-🌙 Night                  83 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+🌞 Morning                2035 commits        ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+🌆 Daytime                5343 commits        █████████████████░░░░░░░░   67.31 % 
+🌃 Evening                477 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+🌙 Night                  83 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
 
@@ -40,17 +26,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               31 hrs 19 mins      ████████████████████████░   96.34 % 
-Dart                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TypeScript               26 hrs 21 mins      ████████████████████░░░░░   80.49 % 
+Dart                     2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+XML                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Gradle Kotlin DSL        30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  32 hrs 44 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      32 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -65,12 +51,8 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/dongseokSon/dongseokSon/main/assets/bar_graph.png)
-
-
- Last Updated on 29/07/2025 01:59:48 UTC
+ Last Updated on 30/07/2025 01:50:18 UTC
 <!--END_SECTION:waka-->
 
 
