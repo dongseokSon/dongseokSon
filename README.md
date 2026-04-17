@@ -8,14 +8,14 @@
 [![Dongseok son's Top Languages](https://github-readme-stats-livid-kappa-40.vercel.app/api/top-langs/?username=dongseokSon&langs_count=20&hide=Jupyter%20Notebook)](https://github.com/dongseokSon/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.48%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.46%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2473 commits        ███████░░░░░░░░░░░░░░░░░░   28.86 % 
-🌆 Daytime                5678 commits        █████████████████░░░░░░░░   66.26 % 
-🌃 Evening                348 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+🌞 Morning                2455 commits        ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+🌆 Daytime                5676 commits        █████████████████░░░░░░░░   66.39 % 
+🌃 Evening                348 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 🌙 Night                  70 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 
@@ -48,7 +48,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2026 00:43:58 UTC
+ Last Updated on 17/04/2026 00:41:08 UTC
 <!--END_SECTION:waka-->
 
 
