@@ -8,15 +8,15 @@
 [![Dongseok son's Top Languages](https://github-readme-stats-livid-kappa-40.vercel.app/api/top-langs/?username=dongseokSon&langs_count=20&hide=Jupyter%20Notebook)](https://github.com/dongseokSon/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.49%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.43%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2482 commits        ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-🌆 Daytime                5675 commits        █████████████████░░░░░░░░   66.27 % 
-🌃 Evening                346 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-🌙 Night                  60 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+🌞 Morning                2437 commits        ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+🌆 Daytime                5662 commits        █████████████████░░░░░░░░   66.60 % 
+🌃 Evening                342 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+🌙 Night                  60 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 
 
@@ -38,17 +38,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               18 repos            ███████████████░░░░░░░░░░   58.06 % 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               16 repos            ██████████████░░░░░░░░░░░   55.17 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 24/07/2026 00:37:55 UTC
+ Last Updated on 25/07/2026 00:40:38 UTC
 <!--END_SECTION:waka-->
 
 
