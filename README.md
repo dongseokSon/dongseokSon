@@ -28,19 +28,37 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     4 mins              ████████████████░░░░░░░░░   63.56 % 
+Markdown                 2 mins              █████████░░░░░░░░░░░░░░░░   36.44 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              ███████████████████████░░   91.11 % 
+Codex Vscode             0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 mins (63.56%)
+
+✍️ 130 lines written by AI, 1 lines written by hand (99.24% AI-written)
+
+🔤 72,157 Input Tokens, 8,108 Output Tokens
+
+💵 $0.28 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+GPT                      130 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.24% of written lines came from AI
+📝 Concise Prompter — average 121 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -56,7 +74,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 00:30:09 UTC
+ Last Updated on 25/10/2026 00:33:23 UTC
 <!--END_SECTION:waka-->
 
 
