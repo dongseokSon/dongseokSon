@@ -8,7 +8,7 @@
 [![Dongseok son's Top Languages](https://github-readme-stats-livid-kappa-40.vercel.app/api/top-langs/?username=dongseokSon&langs_count=20&hide=Jupyter%20Notebook)](https://github.com/dongseokSon/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-561.51%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -28,37 +28,45 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Text                     4 mins              ████████████████░░░░░░░░░   63.56 % 
-Markdown                 2 mins              █████████░░░░░░░░░░░░░░░░   36.44 % 
+Other                    2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.90 % 
+Markdown                 2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.68 % 
+JSON                     1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+JavaScript               51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Gosu                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-VS Code                  6 mins              ███████████████████████░░   91.11 % 
-Codex Vscode             0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+VS Code                  2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   36.86 % 
+Antigravity CLI          2 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.09 % 
+Codex Vscode             56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Codex CLI                52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Zsh                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      6 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (63.56%)
+⏱ AI Coding Time: 6 hrs 16 mins (98.44%)
 
-✍️ 130 lines written by AI, 1 lines written by hand (99.24% AI-written)
+✍️ 1,512 lines written by AI, 177 lines written by hand (89.52% AI-written)
 
-🔤 72,157 Input Tokens, 8,108 Output Tokens
+🔤 2,966,439 Input Tokens, 487,613 Output Tokens
 
-💵 $0.28 Estimated AI Cost This Week
+💵 $19.40 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 26 AI Sessions, 144 AI Prompts
 
-GPT                      130 lines           █████████████████████████   100.00 % 
+GPT                      1,530 lines         █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.24% of written lines came from AI
-📝 Concise Prompter — average 121 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.76% of changed lines were hand-edited
+🤖 AI-Driven — 89.52% of written lines came from AI
+📝 Concise Prompter — average 93 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 13.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,7 +82,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 00:33:23 UTC
+ Last Updated on 26/10/2026 00:32:24 UTC
 <!--END_SECTION:waka-->
 
 
