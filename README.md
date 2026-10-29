@@ -8,17 +8,17 @@
 [![Dongseok son's Top Languages](https://github-readme-stats-livid-kappa-40.vercel.app/api/top-langs/?username=dongseokSon&langs_count=20&hide=Jupyter%20Notebook)](https://github.com/dongseokSon/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2049%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-570.97%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-571.16%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                279 commits         ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-🌆 Daytime                600 commits         ██████████████░░░░░░░░░░░   54.20 % 
-🌃 Evening                160 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-🌙 Night                  68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+🌞 Morning                280 commits         ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+🌆 Daytime                600 commits         ██████████████░░░░░░░░░░░   54.10 % 
+🌃 Evening                160 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+🌙 Night                  69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 ```
 
 
@@ -28,45 +28,45 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.03 % 
-Other                    2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-Markdown                 2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-JSON                     1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Gosu                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+JavaScript               2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.54 % 
+Other                    2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+Markdown                 2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+JSON                     1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-Codex CLI                3 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.34 % 
-Antigravity CLI          2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-VS Code                  2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-Codex Vscode             1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Zsh                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Codex CLI                3 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.40 % 
+Antigravity CLI          2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+VS Code                  2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+Codex Vscode             1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Zsh                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 💻 Operating System: 
-Mac                      9 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 34 mins (98.09%)
+⏱ AI Coding Time: 9 hrs 43 mins (98.12%)
 
-✍️ 1,868 lines written by AI, 177 lines written by hand (91.34% AI-written)
+✍️ 1,872 lines written by AI, 177 lines written by hand (91.36% AI-written)
 
-🔤 3,834,261 Input Tokens, 600,923 Output Tokens
+🔤 4,423,566 Input Tokens, 611,616 Output Tokens
 
-💵 $25.53 Estimated AI Cost This Week
+💵 $27.16 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 187 AI Prompts
+🧠 35 AI Sessions, 195 AI Prompts
 
-GPT                      1,890 lines         █████████████████████████   100.00 % 
+GPT                      1,894 lines         █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.34% of written lines came from AI
-📝 Concise Prompter — average 147 characters per prompt
+🤖 AI-Driven — 91.36% of written lines came from AI
+📝 Concise Prompter — average 179 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 11.43% of changed lines were hand-edited
+🚀 High AI Trust — 11.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,7 +82,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 00:24:05 UTC
+ Last Updated on 29/10/2026 00:23:54 UTC
 <!--END_SECTION:waka-->
 
 
