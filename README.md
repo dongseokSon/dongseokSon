@@ -28,35 +28,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    13 mins             █████████████████████████   100.00 % 
+Other                    8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex CLI                4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 264,390 Input Tokens, 2,566 Output Tokens
-
-💵 $0.76 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 92 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -72,7 +56,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2026 00:21:57 UTC
+ Last Updated on 10/11/2026 00:19:12 UTC
 <!--END_SECTION:waka-->
 
 
