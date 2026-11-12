@@ -8,7 +8,7 @@
 [![Dongseok son's Top Languages](https://github-readme-stats-livid-kappa-40.vercel.app/api/top-langs/?username=dongseokSon&langs_count=20&hide=Jupyter%20Notebook)](https://github.com/dongseokSon/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-571.46%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -28,34 +28,35 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    32 mins             █████████████████████████   100.00 % 
+Other                    24 mins             ██████████████████████░░░   86.36 % 
+JavaScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 
 🔥 Editors: 
-Codex CLI                16 mins             ████████████████░░░░░░░░░   64.99 % 
-Zsh                      8 mins              █████████░░░░░░░░░░░░░░░░   35.01 % 
+Codex CLI                19 mins             █████████████████░░░░░░░░   69.55 % 
+Zsh                      8 mins              ████████░░░░░░░░░░░░░░░░░   30.45 % 
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.00 % 
+Mac                      28 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (95.75%)
+⏱ AI Coding Time: 27 mins (96.01%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 374,558 Input Tokens, 2,121 Output Tokens
+🔤 725,176 Input Tokens, 5,709 Output Tokens
 
-💵 $1.65 Estimated AI Cost This Week
+💵 $2.20 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 908 characters per prompt
+📄 Detailed Prompter — average 612 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -73,7 +74,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/11/2026 00:20:13 UTC
+ Last Updated on 12/11/2026 00:20:38 UTC
 <!--END_SECTION:waka-->
 
 
