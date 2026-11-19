@@ -8,7 +8,7 @@
 [![Dongseok son's Top Languages](https://github-readme-stats-livid-kappa-40.vercel.app/api/top-langs/?username=dongseokSon&langs_count=20&hide=Jupyter%20Notebook)](https://github.com/dongseokSon/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-571.46%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -77,7 +77,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2026 00:20:10 UTC
+ Last Updated on 19/11/2026 00:20:32 UTC
 <!--END_SECTION:waka-->
 
 
